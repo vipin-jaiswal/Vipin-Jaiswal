@@ -1,6 +1,4 @@
-from pathlib import Path
-
-readme = r'''<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,40:312E81,100:00E5FF&height=230&section=header&text=VIPIN%20JAISWAL&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%2FML%20ENGINEER&descAlignY=58&descSize=17" width="100%" alt="Vipin Jaiswal header"/>
 
@@ -29,7 +27,7 @@ readme = r'''<div align="center">
 ## 🌌 ABOUT ME
 
 <div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Developer coding animation"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Developer coding animation"/>
 </div>
 
 ### 👋 Hi, I'm Vipin Jaiswal
@@ -100,7 +98,7 @@ I'm a passionate developer from India 🇮🇳 who loves building intelligent sy
 ### 🐦 Bird Species Classification
 
 <a href="https://github.com/vipin-jaiswal/birds_species_clasification">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vipin-jaiswal&repo=birds_species_clasification&theme=tokyonight&hide_border=true" width="100%" alt="Bird Species Classification"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vipin-jaiswal&repo=birds_species_clasification&theme=tokyonight&hide_border=true" width="250" alt="Bird Species Classification"/>
 </a>
 
 **Python · TensorFlow · Keras**
